@@ -77,10 +77,8 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
   On s’aperçoit qu’au bout de 3 mois, le Ajusted Rand Score chute brutalement.
   Donc on propose de relancer la segmentation tous les 3 mois
 
-  ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/8f6435d3-d1c4-4da7-ae79-f8b358ce5f68)
 
 
-
-
+![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/b18aac79-fc25-4054-ac33-8c28ea0c7b9b)
 
 
