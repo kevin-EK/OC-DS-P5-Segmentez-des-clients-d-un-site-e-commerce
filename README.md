@@ -23,6 +23,7 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
 ## IV. Comparaison des méthodes de Clustering
   #### A). CAH meilleur segmentation k=2
     ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/a7491fe5-755b-460c-b974-ed2ac477bcdb)
+    
     ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/32d86541-3e92-4a69-aab9-837d43811438)
 
   Visualisation grâce APC segmentation CAH
