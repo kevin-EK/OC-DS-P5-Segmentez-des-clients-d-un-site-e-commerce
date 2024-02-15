@@ -22,8 +22,9 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
 
 ## IV. Comparaison des méthodes de Clustering
   #### A). CAH meilleur segmentation k=2
+  
     ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/a7491fe5-755b-460c-b974-ed2ac477bcdb)
-    
+       
     ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/32d86541-3e92-4a69-aab9-837d43811438)
 
   Visualisation grâce APC segmentation CAH
@@ -41,11 +42,12 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
 
     
   #### B). K-means meilleur segmentation k=6
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/fb9ec90e-c873-45df-95d7-1b297c8e6e36)
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/2e80d3c2-a74a-4d73-a069-3953f3981efb)
+  ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/fb9ec90e-c873-45df-95d7-1b297c8e6e36)
+  ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/2e80d3c2-a74a-4d73-a069-3953f3981efb)
     
     Analyse résultat
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/f6024b7d-343d-4e95-9da0-23a5e59524b6)
+    
+![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/f6024b7d-343d-4e95-9da0-23a5e59524b6)
 
   - Gp1 : Anciens Clients qui ont acheté qu’1 fois 1 article pour un montant moyen de 131 Real 
   - Gp2 : groupe de client qui dépense le plus 1257 real en moy.
