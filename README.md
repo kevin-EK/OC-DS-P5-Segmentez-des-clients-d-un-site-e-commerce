@@ -8,15 +8,24 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
   - Mon rôle est de leur fournir une description actionnable de segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps. 
 
 ## II. Descriptifs des Données
-![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/e2d51a70-78b7-41c5-a480-dc01fe194928)
+
   - 9 fichiers « .csv »
   - Merge et groupby pour obtenir data frame « clients »
   - 99441 commandes pour 96096 clients uniques
   - Seulement 3.12% des clients ont commandés plus d'une fois sur le site.
   - 97% des commandes ont été livrés et 1,24% des commandes ont été annulées ou sont indisponibles (donc supprimées de notre data frame)
-
+![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/e2d51a70-78b7-41c5-a480-dc01fe194928)
 
 ## III. Analyse RFM
+#### Recommandation:
+  - Action à mener en fonction de la segmentation
+  - Proposer Up-Selling, 
+  - Cross-Selling, 
+  - Campagne de fidélisation (abonnement), 
+  - Réduction et promotion
+  - Appel téléphonique
+  - Campagne d’e-mailing (mauvais client)
+
 ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/df0fdfb8-492e-43c8-8284-7d5ec37b7b96)
 
 ## IV. Comparaison des méthodes de Clustering
