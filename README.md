@@ -36,6 +36,7 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
 ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/32d86541-3e92-4a69-aab9-837d43811438)
 
   Analyse résultat
+  
   ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/4eb115b9-9f48-4896-a328-90e66d7b73e0)
 
   Le premier segment est composé des clients qui en moyenne:
