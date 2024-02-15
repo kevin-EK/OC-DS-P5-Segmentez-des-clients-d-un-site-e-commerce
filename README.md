@@ -23,9 +23,9 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
 ## IV. Comparaison des méthodes de Clustering
   #### A). CAH meilleur segmentation k=2
   
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/a7491fe5-755b-460c-b974-ed2ac477bcdb)
+![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/a7491fe5-755b-460c-b974-ed2ac477bcdb)
        
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/32d86541-3e92-4a69-aab9-837d43811438)
+![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/32d86541-3e92-4a69-aab9-837d43811438)
 
   Visualisation grâce APC segmentation CAH
     ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/d6bc156b-c0f7-4ecd-a890-6c9a72cb190b)
@@ -38,7 +38,7 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
     - achètent plus de 2X plus souvent et 2X plus d’article que ceux du segment 2
     - Commandent pour 300 real vs 164 real pour le groupe 2
 
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/719733d2-f618-476b-bc89-873d8a93e3fe)
+![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/719733d2-f618-476b-bc89-873d8a93e3fe)
 
     
   #### B). K-means meilleur segmentation k=6
