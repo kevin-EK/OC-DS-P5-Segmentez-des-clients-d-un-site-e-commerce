@@ -27,9 +27,6 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
        
 ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/32d86541-3e92-4a69-aab9-837d43811438)
 
-  Visualisation grâce APC segmentation CAH
-    ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/d6bc156b-c0f7-4ecd-a890-6c9a72cb190b)
-
   Analyse résultat
   ![image](https://github.com/kevin-EK/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/assets/69479292/4eb115b9-9f48-4896-a328-90e66d7b73e0)
 
@@ -65,7 +62,7 @@ Aider les équipes d'une société brésilienne à comprendre les différents ty
   #### D). Conclusion 
     - Le CAH Propose une segmentation en 2 groupes, les clients les plus récent qui ont acheté plus d’une fois et ceux qui dépensent beaucoup vs les mauvais clients ceux du groupe 2.
     - L’algorithme de DBSCAN ne permet pas de segmenter la base de données clients.
-    - La meilleure méthode de clustering est le k-means qui propose 6 groupes homogènes de clients. Elle est plus stable (même résultat malgré les diff itérations        contrairement au CAH)
+    - La meilleure méthode de clustering est le k-means qui propose 6 groupes homogènes de clients. Elle est plus stable (même résultat malgré les différentes itérations, contrairement au CAH)
 
 ## V. Analyse de stabilité dans le temps & Proposition de contrat de maintenance
   On s’aperçoit qu’au bout de 3 mois, le Ajusted Rand Score chute brutalement.
